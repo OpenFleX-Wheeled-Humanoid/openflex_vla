@@ -4,7 +4,7 @@
 
 `openflex_vla` is reserved for OpenFlex VLA (Vision-Language-Action) capabilities, including data collection, model training, inference deployment, and task-level intelligent control.
 
-This module is not currently released as open-source content. This repository only keeps a placeholder document so the OpenFlex project structure remains complete.
+This module is not currently released as open-source content.
 
 ## Access
 
