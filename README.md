@@ -1,5 +1,7 @@
 # OpenFlex VLA Module
 
+![Cover](./image/cover.gif)
+
 ## Overview
 
 `openflex_vla` is reserved for OpenFlex VLA (Vision-Language-Action) capabilities, including data collection, model training, inference deployment, and task-level intelligent control.

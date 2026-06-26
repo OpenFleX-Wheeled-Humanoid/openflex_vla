@@ -1,5 +1,7 @@
 # OpenFlex VLA 模块
 
+![封面](./image/cover.gif)
+
 ## 模块说明
 
 `openflex_vla` 用于 OpenFlex 机器人 VLA（Vision-Language-Action）相关能力的扩展，包括数据采集、模型训练、推理部署以及任务级智能控制等方向。
